@@ -157,7 +157,7 @@ span{
 
 .iphone-12 {
     height: 100%;
-    background-image: url(img/img12.jpg);
+    background-image: url(img/img11.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;   
@@ -170,8 +170,8 @@ span{
 
 
 .iphone-12 .title h1 {
-    font-size: 50px;
-    color: rgba(0, 0, 0, 0.897);
+    font-size: 70px;
+    color: #3550B4;
     font-weight: 700;
 }
 .iphone-12 .title p {
@@ -219,7 +219,7 @@ span{
     text-align: center;
 }
 .image-container .fitness {
-    height: 500px;
+    height: 600px;
     width: 100%;
     padding-top: 0%;
     flex: auto;
@@ -227,9 +227,9 @@ span{
 }
 
 .fitness {
-    height: 90%;
+    height: 190%;
     min-height: 100%;
-    background-image: url(img/apple-fitness.jpg);
+    background-image: url(img/img10.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -402,4 +402,3 @@ ul {
 .fa-searchs{
     visibility: hidden;
 }
-
