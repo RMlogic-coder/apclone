@@ -24,7 +24,7 @@ header {
     height: 52px;
     width: 100%;
     color: rgba(255, 253, 253, 0.87);
-    background-color: rgba(0,0,0,0.92);
+    background-color: #3550B4;
     z-index: 10;
     /* display: flex;
     align-items: center;
@@ -157,7 +157,7 @@ span{
 
 .iphone-12 {
     height: 100%;
-    background-image: url(img/img11.png);
+    background-image: url(img/img11-removebg-preview.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;   
@@ -193,10 +193,10 @@ span{
 .iphone-12-pro {
     height: 90%;
     min-height: 100%;
-    background-image: url(img/iphone12pro-background.jpg);
-    background-size: cover;
+    background-image: url(img/bg1.png);
+    background-size: inherit ;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: fixed;
 }
 
 .iphone-12-pro .title {
@@ -229,7 +229,7 @@ span{
 .fitness {
     height: 190%;
     min-height: 100%;
-    background-image: url(img/img10.png);
+    background-image: url(img/img10-removebg-preview.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
